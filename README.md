@@ -2,3 +2,5 @@
 
 # TodoApi-asp-dotnet-core
 Todo API ASP.NET Core
+
+Example app for demonstrating CI/CD with GitHub Actions
